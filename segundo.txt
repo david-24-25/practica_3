@@ -1,1 +1,2 @@
 Éste es el segundo archivo del repositorio.
+Línea añadida después al segundo archivo.
