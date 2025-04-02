@@ -1,4 +1,4 @@
-### Práctica 3 del curso.
+### **Práctica 3 del curso.**
 
 # *Para estar informado.*
 
