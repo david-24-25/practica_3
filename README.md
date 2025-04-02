@@ -1,6 +1,6 @@
-### **Práctica 3 del curso.**
+# **Práctica 3 del curso.**
 
-# *Para estar informado.*
+## *Accede al siguiente link para estar informado.*
 
 [Noticias actuales](www.bbc.com)
 
